@@ -1,5 +1,5 @@
 # RKR-related
-A implementation in pytorch. Will be updating after some time
+A implementation in pytorch. Will be updated after some time
   
 - [x] model implementation sources are updated (baselines and RKR-model)  
 - [x] preprocessing sources are updated  
